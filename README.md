@@ -7,4 +7,4 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tannduong/) | [Email](mailto:tanduong0490@gmail.com "tanduong0490@gmail.com") 
 - 📈 My Tableau Public: [Tableau](https://public.tableau.com/profile/tanduong#!/)
-- ⚡ Fun fact: I don't like ice-cream
+- ⚡ Fun fact: I don't like ice-cream & chocolate
